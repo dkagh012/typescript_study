@@ -3,13 +3,13 @@
 //   age: number;
 // } = {
 const person = {
-  name: "Maximilian",
+  name: 'Maximilian',
   age: 30,
-  hobbies: ["Sports", "Cooking"],
+  hobbies: ['Sports', 'Cooking']
 };
 
 let favoriteActivities: string[];
-favoriteActivities = ["Sports"];
+favoriteActivities = ['Sports'];
 
 console.log(person.name);
 
