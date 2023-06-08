@@ -19,16 +19,16 @@
     // outDir : 컴파일 후 생성되는 js파일이 생성될 폴더명
     "outDir": "./dist" /* Redirect output structure to the directory. */,
     // rootDir : 시작하는 루트 폴더
-    "rootDir": "./src" /* Specify the root directory of input files. Use to control the output directory structure with --outDir. */,
+    // "rootDir": "./src" /* Specify the root directory of input files. Use to control the output directory structure with --outDir. */,
     // "composite": true,                     /* Enable project compilation */
     // 컴파일러가 주석을 제거하고,
-    "removeComments": true /* Do not emit comments to output. */,
+    // "removeComments": true /* Do not emit comments to output. */,
     // "noEmit": true,                        /* Do not emit outputs. */
     // "importHelpers": true,                 /* Import emit helpers from 'tslib'. */
     // "downlevelIteration": true,            /* Provide full support for iterables in 'for-of', spread, and destructuring when targeting 'ES5' or 'ES3'. */
     // "isolatedModules": true,               /* Transpile each file as a separate module (similar to 'ts.transpileModule'). */
     // 컴파일러가 오류가 있는 파일을 컴파일하지 않고, 오류 메시지만 출력하게 됩니다.
-    "noEmitOnError": true,
+    // "noEmitOnError": true,
 
     /* Strict Type-Checking Options */
     // strict 옵션을 적용하여 엄격한 타입 체크 및 추가 규칙을 적용합니다. 이는 코드의 타입 안정성을 높이고 일부 잠재적인 오류를 방지하는 데 도움이 됩니다.
